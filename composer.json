@@ -1,0 +1,7 @@
+{
+    "name": "desbiger/bitrix-tools",
+    "description": "Helpers for bitrix development",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}
